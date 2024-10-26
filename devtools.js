@@ -1,5 +1,5 @@
 chrome.devtools.panels.create(
-  "burpbar",
+  "httpx",
   "",
   "./panel/dist/index.html",
   function (panel) {
